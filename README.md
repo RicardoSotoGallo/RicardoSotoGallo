@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Ricardo Soto Gallo
 
 ## 🚀 Who I am
+
 I'm a graduate in Electronic Engineering and currently a Computer Engineering student at the University of Seville.  
 I have experience in software development, data analysis, and Artificial Intelligence using Python and Java.  
 I enjoy working on multidisciplinary projects and continuous learning.
